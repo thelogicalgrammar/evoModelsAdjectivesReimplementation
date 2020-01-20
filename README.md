@@ -1,6 +1,6 @@
 # Reproduction of three models of the evolution of adjectival thresholds
 
-This repo contains fast and ready reproductions of three models of the evolution of adjectival thresholds. The papers are:
+This repo contains rough and ready reproductions of three models of the evolution of adjectival thresholds. The papers are:
 
 Franke, Michael. ‘Scales, Salience, and Referential Safety: The Benefit of Communicating the Extreme’. In The Evolution of Language: Proceedings of the 9th International Conference. Kyoto, 2012. https://doi.org/10.1142/9789814401500_0016.
 
