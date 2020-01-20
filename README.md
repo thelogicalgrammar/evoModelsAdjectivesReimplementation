@@ -1,4 +1,4 @@
-# Reproduction of three models of the evolution of adjectival thresholds
+# Reimplementation of three models of the evolution of adjectival thresholds
 
 This repo contains rough and ready reproductions of three models of the evolution of adjectival thresholds. The papers are:
 
